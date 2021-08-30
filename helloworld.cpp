@@ -9,7 +9,7 @@
 
 using namespace std;
 
-const string FILE_PATH = "C:/Users/Outofsigh/Documents/VSCode projects/firstC++/words.txt";
+const string FILE_PATH = "C:/Users/.../words.txt"; // SET PATH HERE TO RUN THE PROGRAM
 
 int userInt(string prompt)
 {
